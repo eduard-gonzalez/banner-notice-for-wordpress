@@ -1,5 +1,4 @@
-=== Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+# Plugin Name ===
 Donate link: http://eduardogonzalez.me/
 Tags: comments, banner, notice, WooCommerce
 Requires at least: 3.0.1
@@ -9,15 +8,16 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Allows you to set single  banner for a notice on the WooCommerce shop 
-== Description ==
+## Description ==
 
-Allows you to set single  banner for a notice on the WooCommerce shop 
-== Installation ==
+
+## Allows you to set single  banner for a notice on the WooCommerce shop 
+ Installation ==
 
 This section describes how to install the plugin and get it working.
 
 e.g.
 
-1YOU. Upload `banner-notice-for-wordpress.php` to the `/wp-content/plugins/` directory
+1. YOU. Upload `banner-notice-for-wordpress.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. IMPORTANT: YOU NEED INSTALL AVANCED CUSTOM FIELD PRO
